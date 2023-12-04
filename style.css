@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+#clock {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
+
+#session {
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0px;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+}
+
